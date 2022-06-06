@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/thintq.dev/](https://www.facebook.com/thintq.dev/)
+- 👨‍💻 All of my projects are available at [https://github.com/thintqdev]([https://www.facebook.com/thintq.dev/](https://github.com/thintqdev))
 
 - 💬 Ask me about **Laravel, Nodejs**
 
